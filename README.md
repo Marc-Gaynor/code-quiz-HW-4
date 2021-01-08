@@ -1,13 +1,13 @@
 # code-quiz-HW-4
 
-Links to the working site and repo:
+## Links
 
 https://marc-gaynor.github.io/code-quiz-HW-4/
 
 https://github.com/Marc-Gaynor/code-quiz-HW-4
 
 
-
+## Screen Captures
 
 <img src="images\main.jpg">
 
